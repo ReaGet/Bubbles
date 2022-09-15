@@ -1,6 +1,6 @@
 # Bubbles
 
-Changed image to moveing bubbles
+Changes image to moveing bubbles
 
 ![image](https://user-images.githubusercontent.com/19201542/190326130-0cc3efe8-da82-400c-ac82-b654d2fdd296.png)
 
